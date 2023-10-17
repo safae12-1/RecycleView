@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Stars</string>
+    <string name="title_activity_star_edit_item">star_edit_item</string>
+</resources>
